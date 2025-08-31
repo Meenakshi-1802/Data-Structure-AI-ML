@@ -5,7 +5,7 @@ The goal of this repo is to provide a structured collection of core data structu
 
 ---
 
-## 📂 Topics to be  Covered  
+## 📂 Topics to be Covered  
 
 ### 🔹 1. Basic Data Structures  
 - Arrays (NumPy arrays, indexing, slicing, reshaping, broadcasting)  
